@@ -1,0 +1,21 @@
+{
+    "name": "space-candy",
+    "displayName": "Space candy",
+    "description": "An aberrant theme that will put glitter in you life.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Space candy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Space candy-color-theme.json"
+            }
+        ]
+    }
+}
